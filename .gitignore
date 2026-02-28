@@ -1,0 +1,13 @@
+# Test artifacts (generated per-project, not committed with plugin)
+.tests/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

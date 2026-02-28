@@ -1,0 +1,13 @@
+{
+  "name": "nav-visual-testing",
+  "description": "Visual testing protocol for Claude Code: Chrome screenshot verification, DevTools console checks, CRUD testing, API endpoint verification, and autonomous fix-loops",
+  "version": "1.0.0",
+  "author": {
+    "name": "NovaAI Ventures",
+    "email": "bartosz.dariusz.majewski@gmail.com"
+  },
+  "homepage": "https://github.com/NovaAI-Ventures/NAV_Plugin_visual-testing",
+  "repository": "https://github.com/NovaAI-Ventures/NAV_Plugin_visual-testing",
+  "license": "MIT",
+  "keywords": ["visual-testing", "screenshots", "chrome", "devtools", "crud", "qa", "verification"]
+}
