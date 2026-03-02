@@ -1,5 +1,5 @@
 ---
-name: visual-testing
+name: nav-visual-testing
 description: >
   Enforce visual verification of every web feature using Chrome screenshots and DevTools console checks.
   Supports four modes: build-and-test (new features), CRUD verification (every data operation),
