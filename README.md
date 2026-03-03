@@ -1,4 +1,4 @@
-# NAV_Plugin_visual-testing
+# NAV_Plugin_nav-visual-testing
 
 Visual testing protocol plugin for Claude Code. Enforces Chrome screenshot verification, DevTools console checks, CRUD operation testing, API endpoint verification, and an autonomous fix-loop for every web feature.
 
@@ -54,7 +54,7 @@ cat skills/visual-testing/CLAUDE-MD-SNIPPET.md >> /path/to/project/CLAUDE.md
 ## Plugin Structure
 
 ```
-NAV_Plugin_visual-testing/
+NAV_Plugin_nav-visual-testing/
 ├── .claude-plugin/
 │   └── plugin.json
 ├── skills/
