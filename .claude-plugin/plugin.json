@@ -6,8 +6,8 @@
     "name": "NovaAI Ventures",
     "email": "bartosz.dariusz.majewski@gmail.com"
   },
-  "homepage": "https://github.com/NovaAI-Ventures/NAV_Plugin_visual-testing",
-  "repository": "https://github.com/NovaAI-Ventures/NAV_Plugin_visual-testing",
+  "homepage": "https://github.com/NovaAI-Ventures/NAV_Plugin_nav-visual-testing",
+  "repository": "https://github.com/NovaAI-Ventures/NAV_Plugin_nav-visual-testing",
   "license": "MIT",
   "keywords": ["visual-testing", "screenshots", "chrome", "devtools", "crud", "qa", "verification"]
 }
